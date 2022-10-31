@@ -21,9 +21,9 @@
 In this exercise, you will work with some data provided as an array of objects, listing information about dishes available in the Little Lemon restaurant.
 <br><br>
 
-**Step 1:** In the function `getPrices()`, give it the parameter of `taxBoolean`.
+**Step 1:**  In the function `getPrices()`, give it the parameter of `taxBoolean`.
 
-**Step 2:** Inside the `getPrices()` function, code a for loop that will loop over all the objects inside the `dishData` array.
+**Step 2:** +Inside the `getPrices()` function, code a for loop that will loop over all the objects inside the `dishData` array.
 
 **Step 3:** Inside the for loop, declare a `finalPrice` variable, without assigning it a value.
 
